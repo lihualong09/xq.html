@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>属性</title>
+		<style type="text/css">
+			p{font-size: 50px;color: blue;text-align: center;}
+		</style>
+	</head>
+	<body>
+		<p>我身高180m<br>体重10kg</p>
+	</body>
+</html>
